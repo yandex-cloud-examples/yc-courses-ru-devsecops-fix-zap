@@ -1,4 +1,4 @@
-# Материалы для курса «DevSecOps в облачном CI/CD».
+# Материалы для курса «DevSecOps в облачном CI/CD»
 
 https://practicum.yandex.ru/profile/ycloud-devsecops/subscribe
 
